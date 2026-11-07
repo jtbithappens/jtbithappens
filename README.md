@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://bithappens.dev/?from=github"><img src="https://bithappens.dev/og/home.jpg" alt="Bit Happens" width="100%" /></a>
+<a href="https://bithappens.dev/?from=github"><img src="https://bithappens.dev/og/github.jpg" alt="Bit Happens" width="100%" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Bit+Happens+%F0%9F%91%8B;Free+IT+troubleshooting+guides+and+tools;Networking+%E2%80%A2+Help+Desk+%E2%80%A2+Cloud+%E2%80%A2+Security;Practice+labs%2C+study+mode%2C+error+lookup;Now+in+5+languages" alt="Typing SVG" />
 
@@ -10,14 +10,12 @@
 
 ```python
 class BitHappens:
-    what    = "Free IT troubleshooting guides, tools and practice labs"
-    site    = "https://bithappens.dev"
-    guides  = ["Networking", "Help Desk", "Systems Admin", "Cloud", "Security",
-               "Firewalls", "Endpoint", "Voice", "Healthcare IT", "DevOps",
-               "Data Science | Analytics | AI", "Careers"]
-    tools   = "100+ in-browser tools, nothing you paste leaves the browser"
-    labs    = ["Switch Lab (IOS XE)", "Help Desk Lab (Windows 11)"]
-    speaks  = ["English", "Español", "Français", "Deutsch", "العربية"]
+    site     = "bithappens.dev"
+    what     = "Free IT troubleshooting guides and tools"
+    guides   = 12      # Networking, Help Desk, Cloud, Security...
+    tools    = "100+"  # run in your browser, nothing uploaded
+    labs     = ["Switch Lab", "Help Desk Lab"]
+    speaks   = ["EN", "ES", "FR", "DE", "AR"]
     tracking = None
 ```
 
