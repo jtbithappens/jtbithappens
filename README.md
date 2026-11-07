@@ -21,11 +21,13 @@
 ticket:   BH-0001
 priority: P2 (it's always P2 until it's P1)
 reporter: every IT tech, every shift
-issue:    "The fix lives in someone's head, a OneNote page, or reply #47 of a forum thread."
+issue: >
+  The fix lives in someone's head, a OneNote page,
+  or reply #47 of a forum thread.
 resolution:
   - write it down once, properly, with sources
   - turn the repetitive parts into tools that run in the browser
-  - add a lab so you can practise breaking things safely
+  - add a lab so you can practice breaking things safely
 status:   in progress  # forever, on purpose
 ```
 
@@ -93,7 +95,7 @@ Pick an answer in your head, then click to check it.
 
 <div align="center">
 
-[🇺🇸 English](https://bithappens.dev/?from=github) &nbsp;·&nbsp; [🇪🇸 Español](https://bithappens.dev/es/?from=github) &nbsp;·&nbsp; [🇫🇷 Français](https://bithappens.dev/fr/?from=github) &nbsp;·&nbsp; [🇩🇪 Deutsch](https://bithappens.dev/de/?from=github) &nbsp;·&nbsp; [🇸🇦 العربية](https://bithappens.dev/ar/?from=github)
+<a href="https://bithappens.dev/?from=github"><img src="https://bithappens.dev/flags/us.svg" height="14" alt="" /> English</a> &nbsp;·&nbsp; <a href="https://bithappens.dev/es/?from=github"><img src="https://bithappens.dev/flags/es.svg" height="14" alt="" /> Español</a> &nbsp;·&nbsp; <a href="https://bithappens.dev/fr/?from=github"><img src="https://bithappens.dev/flags/fr.svg" height="14" alt="" /> Français</a> &nbsp;·&nbsp; <a href="https://bithappens.dev/de/?from=github"><img src="https://bithappens.dev/flags/de.svg" height="14" alt="" /> Deutsch</a> &nbsp;·&nbsp; <a href="https://bithappens.dev/ar/?from=github"><img src="https://bithappens.dev/flags/sa.svg" height="14" alt="" /> العربية</a>
 
 </div>
 
@@ -103,7 +105,6 @@ Pick an answer in your head, then click to check it.
 
 <img src="https://streak-stats.demolab.com?user=jtbithappens&hide_border=true&background=0B1026&stroke=1E1B4B&ring=818CF8&fire=F472B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=A5B4FC&dates=8B93C9" alt="Contribution streak" height="170" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jtbithappens&bg_color=0B1026&color=A5B4FC&line=818CF8&point=22D3EE&area=true&area_color=4F46E5&hide_border=true&radius=12&custom_title=Commits%20shipped%20to%20bithappens.dev" alt="Contribution activity graph" width="100%" />
 
 <img src="https://raw.githubusercontent.com/jtbithappens/jtbithappens/output/github-contribution-grid-snake-dark.svg" alt="A snake eating the contribution graph" width="100%" />
 
