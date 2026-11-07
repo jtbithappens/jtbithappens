@@ -1,41 +1,125 @@
 <div align="center">
 
-<a href="https://bithappens.dev/?from=github"><img src="https://bithappens.dev/og/github.jpg" alt="Bit Happens" width="100%" /></a>
+<a href="https://bithappens.dev/?from=github"><img src="./assets/banner.svg" alt="Bit Happens: when IT breaks, start here. Free IT troubleshooting guides, browser tools and practice labs at bithappens.dev" width="100%" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Bit+Happens+%F0%9F%91%8B;Free+IT+troubleshooting+guides+and+tools;Networking+%E2%80%A2+Help+Desk+%E2%80%A2+Cloud+%E2%80%A2+Security;Practice+labs%2C+study+mode%2C+error+lookup;Now+in+5+languages" alt="Typing SVG" />
+<a href="https://bithappens.dev/?from=github"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=818CF8&center=true&vCenter=true&width=760&lines=%24+ping+bithappens.dev+%E2%86%92+reply+from+every+guide;Networking+%C2%B7+Help+Desk+%C2%B7+Cloud+%C2%B7+Security+%C2%B7+Firewalls;114+browser+tools.+Nothing+you+paste+leaves+your+device.;Break+a+switch+on+purpose+in+the+Practice+Lab;Now+in+English%2C+Espa%C3%B1ol%2C+Fran%C3%A7ais%2C+Deutsch%2C+%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9" alt="Typing: ping bithappens.dev, reply from every guide" /></a>
 
-![Snake animation](https://raw.githubusercontent.com/jtbithappens/jtbithappens/output/github-contribution-grid-snake-dark.svg)
+[![Website](https://img.shields.io/badge/bithappens.dev-4F46E5?style=for-the-badge&logo=cloudflare&logoColor=white)](https://bithappens.dev/?from=github)
+[![Troubleshoot](https://img.shields.io/badge/Troubleshoot-1E1B4B?style=for-the-badge)](https://bithappens.dev/troubleshoot/?from=github)
+[![Tools](https://img.shields.io/badge/Tools-0E7490?style=for-the-badge)](https://bithappens.dev/tools/?from=github)
+[![Lab](https://img.shields.io/badge/Practice%20Lab-BE185D?style=for-the-badge)](https://bithappens.dev/learn/?from=github)
+[![Study](https://img.shields.io/badge/Study-6D28D9?style=for-the-badge)](https://bithappens.dev/study/?from=github)
+[![What's new](https://img.shields.io/badge/What's%20new-0B1026?style=for-the-badge)](https://bithappens.dev/changes/?from=github)
 
 </div>
 
-```python
-class BitHappens:
-    site     = "bithappens.dev"
-    what     = "Free IT troubleshooting guides and tools"
-    guides   = 12      # Networking, Help Desk, Cloud, Security...
-    tools    = "100+"  # run in your browser, nothing uploaded
-    labs     = ["Switch Lab", "Help Desk Lab"]
-    speaks   = ["EN", "ES", "FR", "DE", "AR"]
-    tracking = None
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+### 🎫 About
+
+```yaml
+ticket:   BH-0001
+priority: P2 (it's always P2 until it's P1)
+reporter: every IT tech, every shift
+issue:    "The fix lives in someone's head, a OneNote page, or reply #47 of a forum thread."
+resolution:
+  - write it down once, properly, with sources
+  - turn the repetitive parts into tools that run in the browser
+  - add a lab so you can practise breaking things safely
+status:   in progress  # forever, on purpose
 ```
 
-### Built with
+**Bit Happens** is a free, no-login IT reference built by a working infrastructure tech. Each guide starts from the symptom: a dead port, a 169.254 address, a bounced email, a failed Intune enrollment. It walks you to the fix with real commands, playbooks and links to the official docs behind every section. No accounts, no cookies, no ads.
 
-[![Stack](https://skillicons.dev/icons?i=html,css,js,python,nodejs,cloudflare,workers,githubactions,git,linux,powershell,bash,vscode&perline=13)](https://skillicons.dev)
+<a href="https://bithappens.dev/?from=github"><img src="./assets/numbers.svg" width="100%" alt="By the numbers: 12 guides, 114 browser tools, 115 playbooks, 800+ practice questions, 25 lab tickets, 5 languages" /></a>
 
-### Start here
+### 🧭 Start where it hurts
 
-- **[Troubleshoot](https://bithappens.dev/troubleshoot/?from=github)**: work outward from the port, ring by ring, to the fix.
-- **[Tools](https://bithappens.dev/tools/?from=github)**: paste device output, errors, configs or packets and get a plain answer.
-- **[Practice Lab](https://bithappens.dev/learn/?from=github)**: fix real-looking tickets on a simulated switch or Windows PC.
-- **[Study](https://bithappens.dev/study/?from=github)**: flashcards and practice questions for A+, Network+, Security+, CCNA and cloud exams.
-- **[A packet's journey](https://bithappens.dev/journey/?from=github)**: follow one HTTPS request from the wall jack to the server and back.
-- **[Outage replays](https://bithappens.dev/outages/?from=github)**: big public outages, step by step, from the companies' own postmortems.
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://bithappens.dev/troubleshoot/?from=github"><img src="https://bithappens.dev/og/troubleshoot.jpg" alt="Troubleshoot" /></a><br/><b>Troubleshoot</b><br/><sub>Seven rings from the switch port outward to the fix.</sub></td>
+<td width="33%" valign="top"><a href="https://bithappens.dev/tools/?from=github"><img src="https://bithappens.dev/og/tools.jpg" alt="Tools" /></a><br/><b>Tools</b><br/><sub>Paste show output, an error, a config or a packet. Get a plain answer.</sub></td>
+<td width="33%" valign="top"><a href="https://bithappens.dev/lab/?from=github"><img src="https://bithappens.dev/og/lab.jpg" alt="Switch Lab" /></a><br/><b>Switch Lab</b><br/><sub>A simulated Cisco IOS XE switch. Fix tickets with real commands.</sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://bithappens.dev/lab/pc/?from=github"><img src="https://bithappens.dev/og/pclab.jpg" alt="Help Desk Lab" /></a><br/><b>Help Desk Lab</b><br/><sub>A simulated Windows 11 PC: chat with the user, then fix it in PowerShell.</sub></td>
+<td width="33%" valign="top"><a href="https://bithappens.dev/journey/?from=github"><img src="https://bithappens.dev/og/journey.jpg" alt="A packet's journey" /></a><br/><b>A packet's journey</b><br/><sub>One HTTPS request, wall jack to server and back, in 12 steps.</sub></td>
+<td width="33%" valign="top"><a href="https://bithappens.dev/outages/?from=github"><img src="https://bithappens.dev/og/outages.jpg" alt="Outage replays" /></a><br/><b>Outage replays</b><br/><sub>Meta, CrowdStrike, AWS and more, from their own postmortems.</sub></td>
+</tr>
+</table>
+
+### 🧪 Ticket of the day
+
+Pick an answer in your head, then click to check it.
+
+<details>
+<summary><b>1.</b> A laptop on a desk port shows <code>169.254.23.7</code>. The port light is green and the switch shows it <code>connected</code>. What failed?</summary>
+<br/>
+
+**DHCP.** A 169.254.x.x address is APIPA: the PC asked for an address and nobody answered. The cable and port are fine, so check the access VLAN, the gateway's `ip helper-address`, and whether the DHCP scope is full.
+→ [Playbook: device has no IP](https://bithappens.dev/networking/playbooks/?from=github#pb-dhcp)
+
+</details>
+
+<details>
+<summary><b>2.</b> Someone plugged a small desk switch into a wall jack and the port went dark. <code>show interfaces status</code> says <code>err-disabled</code>. What's the most likely reason?</summary>
+<br/>
+
+**BPDU Guard.** The desk switch sent spanning-tree BPDUs into an edge port, so the switch shut the port to prevent a loop. Remove the cause first, then recover the port. Bouncing it with the loop still there just takes it down again.
+→ [Playbook: recover an err-disabled port](https://bithappens.dev/networking/playbooks/?from=github#pb-errdis)
+
+</details>
+
+<details>
+<summary><b>3.</b> <code>ping 8.8.8.8</code> works, <code>ping google.com</code> fails. Where do you look?</summary>
+<br/>
+
+**DNS.** Routing to the internet is fine; name resolution isn't. Check which DNS servers the client got with `ipconfig /all`, then test them with `nslookup google.com <server>`.
+→ [Windows: DNS](https://bithappens.dev/networking/end-devices/?from=github#win-dns)
+
+</details>
+
+<sub>Want more? There are 800+ practice questions for A+, Network+, Security+, CCNA, AWS, Azure and Google Cloud in <a href="https://bithappens.dev/study/?from=github">Study mode</a>. The answer shows as soon as you pick.</sub>
+
+### 🛠️ What the guides cover
+
+<a href="https://bithappens.dev/?from=github"><img src="https://skillicons.dev/icons?i=windows,linux,powershell,bash,azure,aws,gcp,docker,kubernetes,terraform,ansible,py,postgres,mysql,githubactions,cloudflare&perline=16" alt="Windows, Linux, PowerShell, Bash, Azure, AWS, Google Cloud, Docker, Kubernetes, Terraform, Ansible, Python, PostgreSQL, MySQL, GitHub Actions, Cloudflare" /></a>
+
+<sub>Plus Cisco IOS XE, Aruba, Palo Alto, Fortinet, Intune, Exchange Online, SIP and Teams Phone, HL7 and medical devices, which don't have icons here.</sub>
+
+**Built with:** <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,workers" height="28" alt="HTML, CSS, JavaScript, Python, Node.js, Cloudflare Workers" align="center" /> &nbsp; static pages on Cloudflare, no framework, works offline.
+
+### 🌍 Read it in your language
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/bithappens.dev-4F46E5?style=for-the-badge&logo=cloudflare&logoColor=white)](https://bithappens.dev/?from=github)
-[![Languages](https://img.shields.io/badge/EN%20%C2%B7%20ES%20%C2%B7%20FR%20%C2%B7%20DE%20%C2%B7%20AR-0E7490?style=for-the-badge)](https://bithappens.dev/es/?from=github)
-[![No tracking](https://img.shields.io/badge/no%20cookies%20%C2%B7%20no%20accounts-1E1B4B?style=for-the-badge)](https://bithappens.dev/?from=github)
+[🇺🇸 English](https://bithappens.dev/?from=github) &nbsp;·&nbsp; [🇪🇸 Español](https://bithappens.dev/es/?from=github) &nbsp;·&nbsp; [🇫🇷 Français](https://bithappens.dev/fr/?from=github) &nbsp;·&nbsp; [🇩🇪 Deutsch](https://bithappens.dev/de/?from=github) &nbsp;·&nbsp; [🇸🇦 العربية](https://bithappens.dev/ar/?from=github)
 
 </div>
+
+### 📈 Uptime report
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jtbithappens&hide_border=true&background=0B1026&stroke=1E1B4B&ring=818CF8&fire=F472B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=A5B4FC&dates=8B93C9" alt="Contribution streak" height="170" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jtbithappens&bg_color=0B1026&color=A5B4FC&line=818CF8&point=22D3EE&area=true&area_color=4F46E5&hide_border=true&radius=12&custom_title=Commits%20shipped%20to%20bithappens.dev" alt="Contribution activity graph" width="100%" />
+
+<img src="https://raw.githubusercontent.com/jtbithappens/jtbithappens/output/github-contribution-grid-snake-dark.svg" alt="A snake eating the contribution graph" width="100%" />
+
+</div>
+
+<details>
+<summary>🥚 <b>Easter eggs</b> (spoilers)</summary>
+<br/>
+
+- Type <kbd>↑</kbd> <kbd>↑</kbd> <kbd>↓</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>B</kbd> <kbd>A</kbd> on the home page or any guide for rack mode.
+- [Get lost on purpose](https://bithappens.dev/this-page-does-not-exist): the 404 page has a packet-catching game.
+- Press <kbd>?</kbd> on the home page or any guide for the keyboard shortcuts.
+- Try a bad day: [three tickets on one switch before lunch](https://bithappens.dev/lab/?from=github#bad).
+
+</details>
+
+<br/>
+
+<a href="https://bithappens.dev/?from=github"><img src="./assets/footer.svg" width="100%" alt="Bit happens. Fix it faster. bithappens.dev" /></a>
